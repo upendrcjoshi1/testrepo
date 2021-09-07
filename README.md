@@ -1,6 +1,3 @@
 # testrepo
 
-
-sbvfsfblkjvfs;kvj]
-sfdvkdsfkv
-sdf;vkndsfkv
+fixed readme
